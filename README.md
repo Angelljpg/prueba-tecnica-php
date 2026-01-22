@@ -145,7 +145,7 @@ Incluye:
 ## 👤 Autor
 
 **Angel Axel Herrera Sánchez**
-Desarrollador Jr. enfocado en Frontend y Backend
+Desarrollador Jr. enfocado en Frontend y Backend de este pequeño
 Proyecto realizado con fines de evaluación técnica y aprendizaje.
 
 ---
@@ -158,3 +158,4 @@ Este proyecto puede escalarse fácilmente agregando:
 * Edición y eliminación de productos
 * Mejora visual con Bootstrap o SweetAlert
 * Despliegue en servidor remoto
+
